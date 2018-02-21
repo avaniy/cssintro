@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'learning_curvebold';
+    src: url('learning_curve_bold_ot_tt-webfont.woff2') format('woff2'),
+         url('learning_curve_bold_ot_tt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+body {
+    background-color:lightyellow;
+}
+
+h3 {
+    font-family: Arial Rounded MT;
+    color:salmon
+}
+
+h1 {
+    font-family: 'learning_curvebold';
+    color: salmon;
+    text-align: center;
+}
+
+a {
+    color: salmon;
+}
+
+#welcomeheader {
+    padding: 20px;
+    border: 1px lightsalmon solid;
+    margin: 30px;
+    background color:bisque;
+    text-align: center;
+}
+
+#subheader {
+    padding: 5px;
+    border: 2px lightsalmon solid;
+    margin: 10px;
+    background color:gray;
+}
+
+#bodycopy {
+    font-family: Arial Rounded MT Bold;
+    color: darksalmon;
+    padding: 20px;
+    border: 1px lightsalmon solid;
+    margin: 30px;
+    background color:bisque;
+}
+
+.salmon {
+    color:lightsalmon;
+    text-align: center;
+}
